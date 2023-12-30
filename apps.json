@@ -4,6 +4,7 @@
     "title":"Draw 'n' Guess",
     "urlname":"drawnguess",
     "description":"This is a description and stuff like that",
-    "version":"0.1.0"
+    "version":"0.1.0",
+    "enabled":true
   }
 }
