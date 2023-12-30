@@ -1,0 +1,9 @@
+{
+  "app1":{
+    "shorttitle":"Draw 'n' Guess",
+    "title":"Draw 'n' Guess",
+    "urlname":"drawnguess",
+    "description":"This is a description and stuff like that",
+    "version":"0.1.0"
+  }
+}
